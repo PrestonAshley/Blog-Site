@@ -6,15 +6,15 @@ const Featured = () => {
     return (
         <div className={styles.container}>
             <h1 className={styles.title}>
-                <b>Hey, Ashley Here!!!</b> Discover my stories and creative ideas....
+                <b>Hey, Ashley Here!!!</b> Discover my stories and life lessons that you can relate to...
             </h1>
             <div className={styles.post}>
                 <div className={styles.imgContainer}>
                     <Image src="/p1.jpeg" alt="" fill className={styles.image} />
                 </div>
                 <div className={styles.textContainer}>
-                    <h1 className={styles.postTitle}>lorem ipsum ajsncsnojsnosdodvvo</h1>
-                    <p className={styles.postDesc}>lorem icondso osdijzhzid sdfhdsiwejeuiv udhfiudhaiargih iheaf0oewjf9paeo uihfiafuaih  auihfiuahfafaeof uheaf0aijfihuaef8iwjeifnkv9rh injfnoejfoenoperjgoan  iahiahr iafoiafuh farii i giaj ijae09 gjujwioef ieiu0feiufhai irghg8efwehuf weifhrhgwefi weifuhefiuhf.</p>
+                    <h1 className={styles.postTitle}>Who Am I..?</h1>
+                    <p className={styles.postDesc}>I am Preston Mendonca (Ashley) from a small village in Udupi. I started this blog page to write about my life stories so none of this is imaginary. I will be writing about parts of my life and the lessons I gained from it. You guys can either learn from it or relate to it. Thank You in advance from the support and blessings....</p>
                     <button className={styles.button}>Read More</button>
                 </div>
             </div>

@@ -31,7 +31,7 @@ const SinglePage = async ({params}) => {
                     </div>}
                     <div className={styles.userTextContainer}>
                         <span className={styles.username}>{data?.user.name}</span>
-                        <span className={styles.date}>10.08.2023</span>
+                        <span className={styles.date}>{data?.createdAt}</span>
                     </div>
                 </div>
             </div>
